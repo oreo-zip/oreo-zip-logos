@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg695"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="yaydesktop-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview697"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.93896774"
+     inkscape:cx="367.42476"
+     inkscape:cy="373.28226"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs692">
+    <rect
+       x="279.02982"
+       y="249.20984"
+       width="210.86986"
+       height="153.3599"
+       id="rect1247" />
+    <rect
+       x="206.60987"
+       y="222.58486"
+       width="364.22977"
+       height="312.0448"
+       id="rect1055" />
+    <rect
+       x="118.21492"
+       y="189.56988"
+       width="193.82988"
+       height="172.52989"
+       id="rect1037" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="path927"
+       sodipodi:type="arc"
+       sodipodi:cx="104.82256"
+       sodipodi:cy="104.82256"
+       sodipodi:rx="105.10434"
+       sodipodi:ry="105.10434"
+       sodipodi:start="0"
+       sodipodi:end="6.2779684"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 209.9269,104.82256 A 105.10434,105.10434 0 0 1 104.95964,209.92681 105.10434,105.10434 0 0 1 -0.28141886,105.09672 105.10434,105.10434 0 0 1 104.41132,-0.2809719 105.10434,105.10434 0 0 1 209.92547,104.27425" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.26936"
+       id="rect1111"
+       width="20.687599"
+       height="50.527355"
+       x="3.4049995"
+       y="58.318001"
+       ry="21.802906"
+       transform="matrix(0.85571266,-0.5174513,0.21399862,0.97683396,0,0)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.26936"
+       id="rect1111-3"
+       width="20.687599"
+       height="50.527355"
+       x="30.113384"
+       y="69.725639"
+       ry="21.802906"
+       transform="matrix(0.85571266,-0.5174513,0.21399862,0.97683396,0,0)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.26936"
+       id="rect1111-5"
+       width="20.687599"
+       height="50.527355"
+       x="135.59239"
+       y="123.29257"
+       ry="21.802906"
+       transform="matrix(0.85571266,-0.5174513,0.21399862,0.97683396,0,0)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.26936"
+       id="rect1111-6"
+       width="20.687599"
+       height="50.527355"
+       x="161.49899"
+       y="135.57358"
+       ry="21.802906"
+       transform="matrix(0.85571266,-0.5174513,0.21399862,0.97683396,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.04px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#ffffff;stroke-width:0.335101"
+       x="68.459381"
+       y="143.12325"
+       id="text1498"
+       transform="scale(1.0194259,0.98094425)"><tspan
+         sodipodi:role="line"
+         id="tspan1496"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.04px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;stroke-width:0.335101"
+         x="68.459381"
+         y="143.12325">y</tspan></text>
+  </g>
+</svg>
